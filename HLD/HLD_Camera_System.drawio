@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-1" value="Camera System Interface" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="261" y="184" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-8" target="JXeANVLjdc_VtZ-RCzQ1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-8" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="88" y="124" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="118" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-9" value="Client Code A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="88" y="189" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-10" value="Request Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="184" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-11" target="JXeANVLjdc_VtZ-RCzQ1-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="364" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-12" target="JXeANVLjdc_VtZ-RCzQ1-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-12" value="Camera Module" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="768" y="364" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-21" value="Success case" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="618" y="574" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-22" value="Failure case" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="918" y="574" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-24" target="JXeANVLjdc_VtZ-RCzQ1-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-24" value="CallbackHandler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="748" y="494" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-24" target="JXeANVLjdc_VtZ-RCzQ1-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-31" value="Capture Request" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="610" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-36" target="JXeANVLjdc_VtZ-RCzQ1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-36" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="88" y="268" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JXeANVLjdc_VtZ-RCzQ1-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="118" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-38" value="Client Code B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="88" y="333" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JXeANVLjdc_VtZ-RCzQ1-40" value="Client&amp;nbsp;&lt;div&gt;1. Submits capture request&lt;div&gt;2. Registers sucess and failure callbacks&lt;/div&gt;&lt;div&gt;3. Submits the urgency&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="90" width="222" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-1" value="1. Provides interface to the client to submit request&lt;div&gt;2. Forwards the reqest to Request Manager&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="139" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-3" value="1. Manages a priority queue with priority based on urgency of requests&lt;div&gt;2. Utilises a threadPool to handle concurrent client request&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="189" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="268" width="15" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-5" value="Picks the request from the top of the queue and executes it" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="470" width="187.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-6" value="1. Capture the image&lt;div&gt;2. Returns reponse to callback handler&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="389" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-7" value="Invoke success or failure callbacks based on response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="728" y="544" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="436" y="371" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E-QCsrbFiz5I_2oGxGZU-10" value="Request Thread Pool" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="442" y="378" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
